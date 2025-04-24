@@ -2,9 +2,9 @@
 /* Osmo UI: https://slater.app/10324/23333.css */
 
 body {
-  background-color: var(--color-neutral-900);
-  color: var(--color-light);
-  font-size: var(--size-font);
+  background-color: #aeb6bf;
+  color: #212f3c;
+  font-size: 12px;
   margin: 0;
   padding: 0;
 }
